@@ -1,1 +1,1 @@
-hello
+The main aim and scope of the project is to provide a platform for users to find the houses and the landlord to advertise their house for renting or leasing. Application acts as an interface between individuals.
